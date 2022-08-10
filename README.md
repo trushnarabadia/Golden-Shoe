@@ -6,6 +6,8 @@ First of all, I started by creating a mind-map of the features and functions I w
 <img src='./public/images/goldenshoemindmap.png'>
 
 I then organised the ideas into categories of which features/ideas link together. 
+<img src='./public/images/mindmapcategorised.png'>
+
 ## Tech Stack & Resources
 
 - [Miro](https://miro.com/app/dashboard/) for mind-mapping and drawing diagrams.
