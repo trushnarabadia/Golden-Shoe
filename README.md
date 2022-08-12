@@ -76,3 +76,4 @@ I'd like for the items to be marked as 'sold out' and disable the customer's abi
 ## Tech Stack & Resources
 
 - [Miro](https://miro.com/app/dashboard/) for mind-mapping and drawing diagrams.
+- [Prettier](https://prettier.io/) for code-formatting.
