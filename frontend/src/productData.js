@@ -31,8 +31,8 @@ const productData = {
       description: 'Teal-coloured suede brogues.',
     },
     {
-      name: 'Faux Snake-skin Lace-Ups',
-      slug: 'faux-snake-skin-lace-ups',
+      name: 'Faux Reptile-Skin Lace-Ups',
+      slug: 'faux-reptile-skin-lace-ups',
       category: 'Boots',
       image: '/images/p4.jpg',
       price: 42.99,
