@@ -78,3 +78,5 @@ I'd like for the items to be marked as 'sold out' and disable the customer's abi
 - [Miro](https://miro.com/app/dashboard/) for mind-mapping and drawing diagrams.
 - [Prettier](https://prettier.io/) for code-formatting.
 - [ESLint](https://eslint.org) to minimise errors.
+- [React](https://reactjs.org/) for the frontend.
+- [Node](https://nodejs.org/en/) for the back-end.

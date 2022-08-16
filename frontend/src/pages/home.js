@@ -1,4 +1,5 @@
 import productData from '../productData';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
@@ -7,11 +8,13 @@ function Home() {
       <div className="products">
         {productData.products.map((product) => (
           <div className="product" key={product.slug}>
-            <a href={`/product/${product.slug}`}>
+            <Link to={`/product/${product.slug}`}>
               <img src={product.image} alt={product.name} />
-            </a>
+            </Link>
             <div className="prodinfo">
-              <p>{product.name}</p>
+              <Link to={`/product/${product.slug}`}>
+                <p>{product.name}</p>
+              </Link>
               <p>
                 <strong>£{product.price}</strong>
               </p>

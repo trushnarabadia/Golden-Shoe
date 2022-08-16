@@ -1,5 +1,5 @@
 import productData from './productData';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import ProductPage from './pages/ProductPage';
 
@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
       <div>
         <header>
-          <a href="/">Golden Shoe</a>
+          <Link to="/">Golden Shoe</Link>
         </header>
         <main>
           <Routes>
