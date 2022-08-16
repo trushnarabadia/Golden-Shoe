@@ -19,3 +19,26 @@ header a {
   font-size: xxx-large;
   font-family: cursive;
 }
+
+.main {
+  padding: 1rem;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  border: 1px gold solid;
+}
+
+.products img {
+  width: 100%;
+  max-width: 400px;
+}
+
+.prodinfo {
+  padding: 1rem;
+}
